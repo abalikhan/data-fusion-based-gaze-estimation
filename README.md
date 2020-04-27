@@ -6,6 +6,9 @@ This respiratory belongs to my paper "Deep Fusion for 3D Gaze Estimation From Na
 2) Data is pre-processed for both MPIIGaze and EYEDIAP datasets and pre-processing is given in seperate files for each.
 3) The main file includes everything you need to train and evaluate this model. 
 
+### Results
+Some of static results on MPIIGAZE and EYEDIAP dataset is given as:
+![results on MPIIGAZE and EYEDIAP datasets](results.png)
 ### Requirements
 I used the following libraries to run this code. 
 
