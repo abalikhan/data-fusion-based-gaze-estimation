@@ -23,11 +23,10 @@ def main():
 
     global args, best_prec1, weight_decay, momentum
 
-    # data_path = '/home/miruware/gaze/dataset'
-    data_path = r'D:\MPIIFaceGaze\MPIIFaceGaze_normalizad'
+    data_path = '/home/miruware/gaze/dataset'
 
     base_lr = 0.0001
-    epochs = 10
+    epochs = 30
     workers = 0
     momentum = 0.9
     weight_decay = 1e-3
