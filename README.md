@@ -25,3 +25,4 @@ I will update this respiratory later for further clarification.
 Please if you use this model or any details in your work, do cite my paper 
 
 A. Ali and Y. Kim, "Deep Fusion for 3D Gaze Estimation From Natural Face Images Using Multi-Stream CNNs," in IEEE Access, vol. 8, pp. 69212-69221, 2020.
+link to paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9062592&tag=1
